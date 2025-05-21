@@ -1,7 +1,7 @@
 {
-  "id": "itemacro",
-  "title": "Item Macro",
-  "version": "<<autoreplaced>>",
+  "id": "itemacro-2",
+  "title": "Item Macro 2",
+  "version": "3.0.0",
   "url": "<<autoreplaced>>",
   "manifest": "<<autoreplaced>>",
   "download": "<<autoreplaced>>",
@@ -27,8 +27,9 @@
     }
   ],
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.331"
+    "minimum": "13",
+    "verified": "13.342",
+    "maximum": 13
   },
   "esmodules": [
     "scripts/hooks.mjs"
